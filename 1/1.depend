@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581766015 source:c:\users\haost\desktop\c”Ô—‘\1\main.c
+	<stdio.h>
+	<errno.h>
+	<string.h>
+
